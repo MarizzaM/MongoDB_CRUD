@@ -47,7 +47,7 @@ __Check what version we are running with npm__
 
 ![step13](https://user-images.githubusercontent.com/75089445/128773217-036b0669-afac-4370-8d9b-17df69a951d1.png)
 
-![step14](https://user-images.githubusercontent.com/75089445/128773238-d4afa766-c5f9-4f0b-9299-da46f9642d3e.png)
+![step14](https://user-images.githubusercontent.com/75089445/128774092-c4f60c2d-b17a-4d10-8a2f-fab663c3050d.png)
 
 ![step15](https://user-images.githubusercontent.com/75089445/128773245-055aa49f-75a6-4dde-b0c3-4f0c24c38201.png)
 
