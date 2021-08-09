@@ -9,7 +9,7 @@
 
 [Robo 3T](https://robomongo.org/download)
 
-**Install the MongoDB Node.js driver **
+__Install the MongoDB Node.js driver__
 
 	npm install mongodb
 
