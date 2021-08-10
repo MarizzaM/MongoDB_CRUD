@@ -1,0 +1,19 @@
+{
+  "name": "mognodb",
+  "version": "1.0.0",
+  "description": "crud application with mongodb",
+  "main": "demo_crud.js",
+  "dependencies": {
+    "mongodb": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud",
+    "mongodb"
+  ],
+  "author": "marina pavlova",
+  "license": "ISC"
+}
